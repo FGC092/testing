@@ -1,6 +1,6 @@
 
    ####################################
    ####                              ##
-   #### Testing git functionalities" ##
+   #### Testing git functionalities  ##
    ####                              ##
    ####################################
